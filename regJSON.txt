@@ -1,0 +1,42 @@
+{
+"name": "aVeryRESTfulPerson",
+"mail": "mail@email.com",
+"conf_mail": "mail@email.com",
+ 
+"profile_individual": {
+  "field_idv_name_first" : { 
+	"und": {
+		"0":{"value":"Shane" }
+			}
+  },
+  "field_idv_name_last" : { 
+	"und": {
+		"0":{"value":"Shane" }
+			}
+  },
+  "field_idv_city" : { 
+	"und": {
+		"0":{"value":"Shane" }
+			}
+  },
+  "field_idv_zip" : { 
+	"und": {
+		"0":{"value":"666" }
+			}
+  },
+  "field_idv_address" : { 
+	"und": {
+		"0":{"value":"123 oh shit" }
+			}
+  },
+ "field_idv_initials" : { 
+	"und": {
+		"0":{"value":"fh" }
+			}
+  }
+  
+}
+  
+
+
+}
